@@ -1,0 +1,30 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Line command readme generator. Takes user input and generates a pdf readme file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgsommer777/Readme-Generator.git"
+  },
+  "keywords": [
+    "readme",
+    "bootcamp",
+    "homework",
+    "pdf",
+    "npm"
+  ],
+  "author": "Russ Sommer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgsommer777/Readme-Generator/issues"
+  },
+  "homepage": "https://github.com/rgsommer777/Readme-Generator#readme",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "pdfkit": "^0.11.0"
+  }
+}
