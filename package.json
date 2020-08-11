@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/rgsommer777/Readme-Generator#readme",
   "dependencies": {
+    "fs": "0.0.1-security",
     "inquire": "^0.4.8",
     "pdfkit": "^0.11.0"
   }
